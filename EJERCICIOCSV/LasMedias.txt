@@ -1,0 +1,4 @@
+Nombre: pepe, su media: 4
+Nombre: ana, su media: 7
+Nombre: luisa, su media: 9
+Nombre: diego, su media: 4
